@@ -1,0 +1,10 @@
+{
+    "projects": [{
+        "name": "sample",
+        "path": "./sources/sbt_collection/sbt_collection.tact",
+        "output": "./sources/output",
+        "options":{
+            
+        }
+    }]
+}
